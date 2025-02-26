@@ -9,4 +9,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNairne&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-![Snake animation](https://github.com/Prisco12/Prisco12/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/GuilhermeNairne/GuilhermeNairne/blob/output/github-contribution-grid-snake-dark.svg)
